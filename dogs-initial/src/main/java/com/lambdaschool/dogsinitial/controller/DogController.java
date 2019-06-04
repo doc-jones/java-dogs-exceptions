@@ -1,6 +1,6 @@
 package com.lambdaschool.dogsinitial.controller;
 
-import com.lambdaschool.dogsinitial.Dog;
+import com.lambdaschool.dogsinitial.model.Dog;
 import com.lambdaschool.dogsinitial.DogsinitialApplication;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
